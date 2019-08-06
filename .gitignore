@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# .env file
+.env
+
+# Uploaded files
+tmp/uploads/*
